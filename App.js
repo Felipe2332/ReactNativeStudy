@@ -13,7 +13,6 @@ function HomeScreen(){
 }
 
 export default function App() {
-  
   return (
     <SafeAreaProvider>
     <HomeScreen></HomeScreen>
