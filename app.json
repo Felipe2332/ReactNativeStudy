@@ -21,7 +21,12 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "android": {
+        "package": "com.empresaTeste.AppTeste",
+        "versionCode": 1
+      },
+      "package": "com.felipe2332.myapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
